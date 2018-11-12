@@ -28,5 +28,6 @@ public class Main {
 		queen.displayMsj();
 		queen.setWeapon(new KnifeBehaviour());
 		queen.displayMsj();
+		
 	}
 }
